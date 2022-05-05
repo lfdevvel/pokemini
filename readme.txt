@@ -6,7 +6,7 @@
           -------------------
              Version  0.60
 
-  Homebrew-emulator for Pokémon-Mini!
+  Homebrew-emulator for Pokï¿½mon-Mini!
 
   Latest version can be found in:
   http://pokemini.sourceforge.net/
@@ -14,12 +14,19 @@
   For hardware documentation, visit:
   http://wiki.sublab.net/index.php/Pokemon_Mini
 
+> Compiling for Leapster Explorer
+  
+  Simple stuff, all you need is the toolchain and SDL.
+  You then clone the repository then cd to 'platform/lf1000'.
+  From there, you run `CROSS_COMPILE=arm-none-linux-gnueabi- make'.
+  The output will be a file in the same directory called "PokeMiniSDL".
+
 > Keys & Information:
 
   To include real BIOS, place "bios.min" on the emulator's directory.
-  When no "bios.min" is present, emulator will use Pokémon-Mini FreeBIOS.
+  When no "bios.min" is present, emulator will use Pokï¿½mon-Mini FreeBIOS.
 
-  Pokémon-Mini     PC Keys
+  Pokï¿½mon-Mini     PC Keys
   ----------------------------
   D-PAD Left       Arrow Left
   D-PAD Right      Arrow Right
@@ -158,7 +165,7 @@
 
 > License GPLv3 (emulator and tools):
 
-PokeMini - Pokémon-Mini Emulator
+PokeMini - Pokï¿½mon-Mini Emulator
 Copyright (C) 2015  JustBurn
 
 This program is free software: you can redistribute it and/or modify
@@ -188,7 +195,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   Pokemon-Mini Hardware:
   http://wiki.sublab.net/index.php/Pokemon_Mini
 
-  Pokémon-mini.net:
+  Pokï¿½mon-mini.net:
   http://www.pokemon-mini.net/
 
   MEGA - Museum of Electronic Games & Art:
