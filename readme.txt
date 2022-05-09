@@ -6,7 +6,7 @@
           -------------------
              Version  0.60
 
-  Homebrew-emulator for Pok�mon-Mini!
+  Homebrew-emulator for Pokémon-Mini!
 
   Latest version can be found in:
   http://pokemini.sourceforge.net/
@@ -24,9 +24,9 @@
 > Keys & Information:
 
   To include real BIOS, place "bios.min" on the emulator's directory.
-  When no "bios.min" is present, emulator will use Pok�mon-Mini FreeBIOS.
+  When no "bios.min" is present, emulator will use Pokémon-Mini FreeBIOS.
 
-  Pok�mon-Mini     PC Keys
+  Pokémon-Mini     PC Keys
   ----------------------------
   D-PAD Left       Arrow Left
   D-PAD Right      Arrow Right
@@ -165,7 +165,7 @@
 
 > License GPLv3 (emulator and tools):
 
-PokeMini - Pok�mon-Mini Emulator
+PokeMini - Pokémon-Mini Emulator
 Copyright (C) 2015  JustBurn
 
 This program is free software: you can redistribute it and/or modify
@@ -195,7 +195,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   Pokemon-Mini Hardware:
   http://wiki.sublab.net/index.php/Pokemon_Mini
 
-  Pok�mon-mini.net:
+  Pokémon-mini.net:
   http://www.pokemon-mini.net/
 
   MEGA - Museum of Electronic Games & Art:
