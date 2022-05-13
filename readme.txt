@@ -26,19 +26,19 @@
   To include real BIOS, place "bios.min" on the emulator's directory.
   When no "bios.min" is present, emulator will use Pokémon-Mini FreeBIOS.
 
-  Pokémon-Mini     PC Keys
+  Pokémon-Mini     Explorer Buttons
   ----------------------------
   D-PAD Left       Arrow Left
   D-PAD Right      Arrow Right
   D-PAD Up         Arrow Up
   D-PAD Down       Arrow Down
-  Key A            Keyboard X
-  Key B            Keyboard Z
-  Key C            Keyboard S or C
-  Power Button     Keyboard E
-  Shock Detector   Keyboard A
+  Key A            A
+  Key B            B
+  Key C            Hint
+  Power Button     R
+  Shock Detector   Pause
   ----------------------------
-  UI Menu          Keyboard Esc
+  UI Menu          Home
 
   F9 will capture the screen and save as "snap_(sequence number).bmp"
 
