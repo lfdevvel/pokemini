@@ -32,8 +32,8 @@
   D-PAD Right      Arrow Right
   D-PAD Up         Arrow Up
   D-PAD Down       Arrow Down
-  Key A            A
-  Key B            B
+  Key A            B
+  Key B            A
   Key C            Hint
   Power Button     R
   Shock Detector   Pause
